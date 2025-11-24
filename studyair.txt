@@ -20,7 +20,7 @@ We do not collect profile data like display names or pictures.
 <br>
 All quiz scores and progress are stored locally only on your device. We do not have access to this data.
 <br>
-We do not use third-party analytics or advertising networks that collect personal identifiers.
+We do not use third-party analytics or advertising networks that collect an personal identifiers.
 <br>
 3. Advertising in studyAir
 <br>
@@ -37,6 +37,8 @@ Since we do not collect your personal data, there is no risk of it being comprom
 You have full control over your data because we don't collect it. Any learning progress is stored solely on your device and can be cleared by uninstalling the app.
 <br>
 6. Children's Privacy
+Our App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will delete it.
+
 <br>
 
 7. Changes to This Policy
@@ -50,3 +52,4 @@ If you have any questions about this Privacy Policy, please contact us at:<br>
 </body>
 
 </html>
+
